@@ -1,5 +1,9 @@
 # LinkedIn-Homepage-Clone
 
+LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
+GitHub- https://github.com/webHimanshusingh <br>
+
+<h1>Join us</h1>
 
 Here's a simplified LinkedIn clone implemented using HTML, CSS, and JavaScript, along with an about section for Mekya Lika.<br> 
 This example will include basic features like user profiles, connections, and a feed. For a complete, functional application,<br>
